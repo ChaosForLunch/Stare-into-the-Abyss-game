@@ -1,0 +1,31 @@
+canvas {
+    border: 1px solid black;
+    background-color: white;
+  }
+  
+  #info {
+    font-size: 18px;
+    margin: 10px;
+  }
+  
+  #score {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 10px;
+  }
+  
+  #gameover {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 200px;
+  }
+  
+  .platform {
+    background-color: #1c6b12;
+  }
+  
+  .player {
+    background-color: #be22dd;
+  }
+  
