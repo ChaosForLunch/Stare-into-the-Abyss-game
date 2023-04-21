@@ -15,8 +15,9 @@ Platformer, Action, Adventure, Racing, Simulation
 Single Player
 
 ## ESRB Rating 
-- Category: Everyone
-- [ESRB Rating](https://www.globalratings.com/ratingsguide.aspx#esrb){:target="_blank"}
+- Category: Everyone (unofficial)
+- In other words, they have not reviewed this game. This game falls well within the category stated above.
+- <a href="https://www.globalratings.com/ratingsguide.aspx#esrb" target="_blank">ESRB Ratings Guide and Categories</a>
 
 ## Developer
 Chaos For Lunch
@@ -81,13 +82,17 @@ All rights reserved
 ## Contact
 - Chaos For Lunch
 - +1 (310) 494-6966
-- info@chaosforlunch.com
-- <a href="https://chaosforlunch.com" target="_blank">https://chaosforlunch.com</a>
+- <a href="mailto:info@chaosforlunch.com" target="_blank">info@chaosforlunch.com</a>
+- <a href="https://chaosforlunch.com" target="_blank">ChaosForLunch.com</a>
 - United States
 
 ## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT){:target="_blank"}
+This project is licensed under the 
+<a href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a>
 
-## Last Updated (README file)
+## Published - README file
 - Date: 2023-4-20
+
+## Last Updated - README file
+- Date: 2023-4-21
 - Description: Added new features and updated gameplay mechanics.
