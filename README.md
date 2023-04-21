@@ -1,10 +1,6 @@
 # Stare-into-the-Abyss-game
 Video Game by Chaos For Lunch
 
-## Date and Location
-- Date: 4-20-2023
-- Location: United States
-
 ## Description
 Stare into the Abyss is a simple single player platformer 2D video game where the player controls a character who can jump on platforms, avoid obstacles, collect points, and avoid falling into the abyss. The game was developed using HTML, CSS, and JavaScript.
 
@@ -65,7 +61,7 @@ If you would like to contribute to this project, please fork the repository and 
 Stare into the Abyss (video game) was created, developed, produced, and published by Chaos For Lunch.
 
 ## Special Thanks
-- Ryan for keeping the roads hot.
+- To a certain neighbor for keeping the roads hot.
 - Mom, Dad, and Granpa for having video game consoles around when i was a kid.
 - Matt Wolfe for posting his video, Using AI To Build A Game From Scratch (NO Experience), on YouTube.
 - Our ISP for the lag and making games not fun to play.
