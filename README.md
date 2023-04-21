@@ -2,8 +2,8 @@
 Video Game by Chaos For Lunch
 
 ## Date and Location
-Date: 4-20-2023
-Location: United States
+- Date: 4-20-2023
+- Location: United States
 
 ## Description
 Stare into the Abyss is a simple single player platformer 2D video game where the player controls a character who can jump on platforms, avoid obstacles, collect points, and avoid falling into the abyss. The game was developed using HTML, CSS, and JavaScript.
@@ -15,8 +15,8 @@ Platformer, Action, Adventure, Racing, Simulation
 Single Player
 
 ## ESRB Rating 
-Category: Everyone
-https://www.globalratings.com/ratingsguide.aspx#esrb
+- Category: Everyone
+- [ESRB Rating](https://www.globalratings.com/ratingsguide.aspx#esrb){:target="_blank"}
 
 ## Developer
 Chaos For Lunch
@@ -25,7 +25,7 @@ Chaos For Lunch
 Chaos For Lunch
 
 ## Available
-2023-04-20
+Date: 2023-04-20
 
 ## Plaform
 Any device with a web browser that supports HTML, CSS, and JavaScript.
@@ -75,18 +75,18 @@ Stare into the Abyss (video game) was created, developed, produced, and publishe
 
 ## Copyright
 © 2023 Chaos For Lunch
-- All rights reserved
+
+All rights reserved
 
 ## Contact
 - Chaos For Lunch
 - +1 (310) 494-6966
 - info@chaosforlunch.com
-- https://chaosforlunch.com
+- <a href="https://chaosforlunch.com" target="_blank">https://chaosforlunch.com</a>
 - United States
 
 ## License
-This project is licensed under the MIT License.
-https://opensource.org/licenses/MIT
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT){:target="_blank"}
 
 ## Last Updated (README file)
 - Date: 2023-4-20
