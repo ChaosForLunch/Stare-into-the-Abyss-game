@@ -175,10 +175,14 @@ function gameLoop() {
   }
 
   // Load the Coin image
-  coin.image.src = "images/coin.png";
+  coin.src = "images/coin.png";
+  // Draw Coin
+  drawCoin();
 
   // Load the Platform image
-  platform.image.src = "images/platform.png";
+  platform.src = "images/platform.png";
+  // Draw Platform
+  drawPlatform();
 
   // Increment Score for each collision with the coin
   if (player.x < coin.x + coin.width &&
@@ -188,9 +192,6 @@ function gameLoop() {
     player.jumping = false;
     player.y = coin.y - player.height;
     }
-
-  // In the gameLoop() function, replace the line that draws the Platform rectangle with this:
-  drawPlatform();
 
   // Check for collisions between player and platform
   if (player.x < platform.x + platform.width &&
